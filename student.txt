@@ -1,0 +1,11 @@
+id,name,dept,marks
+1,Alice Smith,Computer Science,85
+2,Bob Jones,Mathematics,90
+3,Charlie Brown,Physics,78
+4,Diana Prince,Chemistry,92
+5,Ethan Hunt,Computer Science,88
+6,Fiona Gallagher,Biology,76
+7,George Clark,Mathematics,95
+8,Hannah Abbott,Physics,81
+9,Ian Malcolm,Biology,84
+10,Julia Roberts,Computer Science,89

@@ -7,4 +7,5 @@ id,name,dept,marks
 6,Fiona Gallagher,Biology,76
 7,George Clark,Mathematics,95
 8,Hannah Abbott,Physics,81
+9,Spoorthi,Maths,99
 
